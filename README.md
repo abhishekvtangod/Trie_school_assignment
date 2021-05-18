@@ -1,1 +1,1 @@
-# Trie_school_assignment
+Go to src folder and run Autocomplete.java file
